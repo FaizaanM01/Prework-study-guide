@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
  My motivation for developing and building this project is that creating this project has allowed myself to gain first hand experience in front-end development I built this project help and develop my skills in JavaScript, HTML and CSS. Building this project provided knwoledge in the fundamentals of HTML, JavaScript and CSS.
 
 
